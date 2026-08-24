@@ -1,16 +1,16 @@
-## Hi there 👋
+## Welcome!
 
-<!--
-**andsae105/andsae105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm a passionate student invested in engineering and science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy developing projects that connect technology and neuroscience, conducting and learning from research, and exploring new opportunities.
+
+### Fields of Study
+- Computational Neuroscience
+- Biomedical Engineering
+- Computer Science
+- Technology
+- Neurology
+
+### Resolves
+I seek to explore how technology can make brain health more measurable and accessible through research and experimentation.
